@@ -1,0 +1,1 @@
+This project is to make a simple website using html for storing recipes. It will give a basic understanding of various html functions and practice for best practices with git when creating a website.
